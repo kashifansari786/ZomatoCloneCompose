@@ -32,12 +32,13 @@ This project covers advanced concepts, so beginners, make sure to grasp the basi
 
 ##ScreenShots##
 ![Video](screenshots/zomato_video.MOV)
-![LoginScreen](screenshots/login_screen.JPG)
-![Home Screen 1](screenshots/home_screen_1.JPG)
-![Home Screen 2](screenshots/home_screen_2.JPG)
-![Home Screen 3](screenshots/home_screen_3.JPG)
-![Restaurant Screen 1](screenshots/restaurant_screen_1.JPG)
-![Restaurant Screen 2](screenshots/restaurant_screen_2.JPG)
-![Restaurant Screen 3](screenshots/restaurant_screen_3.JPG)
+<img src="screenshots/zomato_video.MOV" alt="Video" width="300"/>
+<img src="screenshots/login_screen.JPG" alt="LoginScreen" width="300"/>
+<img src="screenshots/home_screen_1.JPG" alt="Home Screen 1" width="300"/>
+<img src="screenshots/home_screen_2.JPG" alt="Home Screen 2" width="300"/>
+<img src="screenshots/home_screen_3.JPG" alt="Home Screen 3" width="300"/>
+<img src="screenshots/restaurant_screen_1.JPG" alt="Restaurant Screen 1" width="300"/>
+<img src="screenshots/restaurant_screen_2.JPG" alt="Restaurant Screen 2" width="300"/>
+<img src="screenshots/restaurant_screen_3.JPG" alt="Restaurant Screen 3" width="300"/>
 
 
